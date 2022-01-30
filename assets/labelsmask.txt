@@ -1,0 +1,2 @@
+0 Good you have wear mask
+1 You have not wear mask
