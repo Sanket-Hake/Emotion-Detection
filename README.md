@@ -1,4 +1,4 @@
-# dectector
+# Emotion Detector
 
 A new Flutter project.
 
